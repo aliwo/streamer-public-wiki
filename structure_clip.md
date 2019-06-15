@@ -5,6 +5,7 @@
         "video_id": "124765813", 
         "title": "버스킹 클립 제목", 
         "body": "클립 본문", 
+        "thumbnail": "썸네일 이미지 경로",
         "likes": 1, 
         "live": false, 
         "hearts": 1, 

@@ -7,7 +7,7 @@
   "author_id": 12, 
   "created_at": "2019-06-10 11:09:28", 
   "secret": true, 
-  "likes": 0,
+  "likes": 0
 }
 
 ```
