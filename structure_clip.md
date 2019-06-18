@@ -28,6 +28,7 @@
                 }
             ], 
         "comment_cnt": 1, 
+        "document_id": 2,
         "has_liked": true, 
         "has_hearted": true, 
         "has_bookmarked": true
