@@ -13,6 +13,7 @@
     "parking": false, 
     "inside": false, 
     "confirmed": false, 
-    "poster_urls": []
+    "poster_urls": [],
+    "mine": true
   }
 ```
