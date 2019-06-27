@@ -16,6 +16,7 @@
         "location": "으에으에",
         "notice": "ㅎ",
         "explanation": "없음",
-        "gadgets": "지원장비 완비"
+        "gadgets": "지원장비 완비",
+        "image_urls": ["http://....", "http://...."]
     }
 ```
