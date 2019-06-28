@@ -20,5 +20,5 @@
   }
 ```
 
-필수 값: region_id
+region_id를 꼭 명시해주도록 해용
 
