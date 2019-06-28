@@ -14,6 +14,11 @@
      "name": "홍대에서 한여름방의 버스킹 플레이 ㄱㄱ?",
      "parking": false,
      "start_time": "19:00:00",
+     "region_id": 1,
+     "zone_id": null,
      "zone_name": "test_zone"
   }
 ```
+
+필수 값: region_id
+
