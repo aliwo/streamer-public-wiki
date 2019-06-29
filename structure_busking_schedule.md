@@ -1,23 +1,24 @@
 
 ```json
-  {
-     "confirmed": false,
-     "creator_id": 49,
-     "date": "2019-06-27",
-     "end_time": "22:00:00",
-     "genre": "테스트 장르",
-     "genre_id": 15,
-     "image_url": "",
-     "inside": false,
-     "mine": true,
-     "musician": "",
-     "name": "홍대에서 한여름방의 버스킹 플레이 ㄱㄱ?",
-     "parking": false,
-     "start_time": "19:00:00",
-     "region_id": 1,
-     "zone_id": null,
-     "zone_name": "test_zone"
-  }
+    {
+        "id": 4,
+        "musician": "브레멘의 음악단",
+        "creator_id": 1,
+        "name": "스케쥴 이름",
+        "genre_id": 1,
+        "genre": "대중가요",
+        "date": "2019-12-06",
+        "start_time": "19:00:00",
+        "end_time": "22:00:00",
+        "zone_id": null,
+        "zone_name": "테스트존",
+        "region_id": 1,
+        "parking": false,
+        "inside": false,
+        "confirmed": false,
+        "image_url": "",
+        "mine": true
+    }
 ```
 
 region_id를 꼭 명시해주도록 해용
