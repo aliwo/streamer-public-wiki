@@ -28,6 +28,8 @@
                 }
             ], 
         "comment_cnt": 1, 
+        "heart_blocked": true,
+        "image_url": "http://...",
         "document_id": 2,
         "has_liked": true, 
         "has_hearted": true, 
