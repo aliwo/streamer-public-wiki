@@ -8,6 +8,7 @@
             "google_email": "recordable0711@gmail.com",
             "name": "recordable542",
             "intro": "이것은 자기소개",
+            "fcm_token": "AADBJDABA-13urt031nvjd...",
             "google_picture": "https://lh4.googleusercontent.com/-ufC0a8TTdN4/AAAAAAAAAAI/AAAAAAAABjA/C6tCvQDtOe8/photo.jpg",
             "background_image": "https://무엇무엇.jpg",
             "phone_registered": true,    
