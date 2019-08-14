@@ -33,6 +33,21 @@
         "document_id": 2,
         "has_liked": true, 
         "has_hearted": true, 
-        "has_bookmarked": true
+        "has_bookmarked": true,
+        "author": {
+            "id": 2,
+            "google_id": 2,
+            "google_email": "ridickle7@gmail.com",
+            "name": "Sang Woo Lee",
+            "intro": "가나다라마",
+            "google_picture": "https://lh5.googleusercontent.com/-3JsMq9XkqXc/AAAAAAAAAAI/AAAAAAAADW0/D4SdFW0dpS0/photo.jpg",
+            "background_image": null,
+            "fcm_token": null,
+            "followers": 0,
+            "phone_registered": true,
+            "last_access": "2019-08-12 21:06:06",
+            "registered_at": "2019-06-27 19:43:35",
+            "phone": "01089077586"
+        }
     }
 ```
