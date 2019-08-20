@@ -3,6 +3,7 @@
             "id": 55,
             "author_id": 7,
             "target_user_id": 2,
+            "created_at": "2019-08-20 13:49:00",
             "body": {
                 "kind": "CLIP_COMMENT_RECEIVED",
                 "title": "smen 님이 회원님의 게시물에 댓글을 남겼습니다.",
