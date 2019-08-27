@@ -34,6 +34,7 @@
         "has_liked": true, 
         "has_hearted": true, 
         "has_bookmarked": true,
+        "view_cnt": 2,
         "author": {
             "id": 2,
             "google_id": 2,
