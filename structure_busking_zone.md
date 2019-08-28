@@ -17,6 +17,7 @@
         "notice": "ㅎ",
         "explanation": "없음",
         "gadgets": "지원장비 완비",
+        "when": "2019.7.24  17:00~18:00",
         "image_urls": ["http://....", "http://...."]
     }
 ```
