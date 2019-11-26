@@ -8,6 +8,7 @@
   "parent_id": 2, 
   "created_at": "2019-06-10 11:09:28", 
   "secret": true, 
+  "censored": null, 
   "likes": 0,
   "children_cnt": 0,
   "document_id": 3,
@@ -33,6 +34,7 @@
 parent_id 는 부모가 되는 댓글의 id 입니다.
 (parent_id 가 있는 것은 답글, 없는 것은 댓글입니다.)
 children_cnt 는 자식의 개수입니다. (답글의 개수)
+censored 가 true 라면 관리자에 의해 검열된 댓글입니다!
 
 author 는 리스트 '조회' 시에 부착됩니다. 
 /comment/user/<int:user_id>
