@@ -15,6 +15,7 @@
             "registered_at": "2019-06-27 19:43:35",
             "phone": "01022380476",
             "followers": 0,
+            "followings": 0,
             "hearts": 0,
             "me": true
         }
