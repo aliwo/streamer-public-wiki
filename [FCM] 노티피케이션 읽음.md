@@ -6,7 +6,7 @@
 
 * **URL**
 
-  /notification/read
+  /notification/read <br>
   /notification/<int:notification_id>/read
 
 * **Method:**
